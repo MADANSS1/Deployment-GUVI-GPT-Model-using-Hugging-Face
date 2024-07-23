@@ -1,4 +1,4 @@
-# Deployment-GUVI-GPT-Model-using-Hugging-Face-
+# Deployment-GUVI-GPT-Model-using-Hugging-Face
 
 ## Space live: https://huggingface.co/spaces/MadanSS/GPT-Guvi-LLM
 
