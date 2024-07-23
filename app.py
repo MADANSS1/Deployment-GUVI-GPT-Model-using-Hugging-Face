@@ -17,10 +17,10 @@ st.set_page_config(page_title='GUVI - GPT',page_icon=icon, menu_items={"about":'
 
 # Connect to TiDB Cloud database
 mydb = mysql.connector.connect(
-    host="gateway01.ap-southeast-1.prod.aws.tidbcloud.com", # Replace with your TiDB host URL
-    port=4000,
-    user="4HHk6GycyJubmY6.root", # Replace with your TiDB username
-    password="dDVkvOZ2shZhXTrf"  # Replace with your TiDB password
+    host="", # Replace with your TiDB host URL
+    port=,
+    user="", # Replace with your TiDB username
+    password=""  # Replace with your TiDB password
 )
 mycursor = mydb.cursor(buffered=True)
 
